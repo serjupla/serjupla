@@ -38,4 +38,4 @@ thomas request
 Tech Lead no Banco do Brasil, atuando na interseção entre liderança de engenharia e construção prática de soluções. Formado pela Unesp, Universidade de Brasília e Fundação Getúlio Vargas. Fora do trabalho, desenvolvo o **The Thomas** como projeto open-source.
 
 📍 Brasília, Brasil
-🔗 [LinkedIn](https://www.linkedin.com/in/sergioplanelis/) · [The Thomas no GitHub](https://github.com/serjupla/thomas-test-suite) · [The Thomas no PyPI](https://pypi.org/project/thomas-test-suite/)
+🔗 [LinkedIn](https://www.linkedin.com/in/sergioplanelis/) · [The Thomas no GitHub](https://github.com/serjupla/the-thomas-test-suite) · [The Thomas no PyPI](https://pypi.org/project/the-thomas-test-suite/)
