@@ -17,7 +17,7 @@ Tech Lead @ Banco do Brasil · Intra-empreendedor · Brasília, BR
 
 ### 🔧 Building The Thomas
 
-**[The Thomas](https://github.com/serjupla/thomas-test-suite)** é um framework open-source de testes de API — pensado como alternativa leve a ferramentas como Karate e Tavern.
+**[The Thomas](https://github.com/serjupla/thomas-test-suite)** é um framework open-source para automação de testes funcionais de API,s — pensado como alternativa leve a ferramentas como Karate e Tavern.
 
 - 📦 Instale com `pip install thomas-test-suite`
 - 🚀 Rode com `thomas request`
