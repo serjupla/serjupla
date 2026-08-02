@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Sergio 👋</h1>
 
 <p align="center">
-Tech Lead @ Banco do Brasil · Intra-empreendedor · Brasília, BR
+Tech Lead @ Banco do Brasil · Empreendedor · Brasília, BR
 </p>
 
 <p align="center">
@@ -19,12 +19,17 @@ Tech Lead @ Banco do Brasil · Intra-empreendedor · Brasília, BR
 
 **[The Thomas](https://github.com/serjupla/the-thomas-test-suite)** é um framework open-source para automação de testes funcionais de API,s — pensado para testes mais completos e como um alternativa mais leve a ferramentas como Karate e Tavern.
 
-Com o QuickStart do The Thomas, você terá seu primeiro relatório em menos de 2 min:
+Com o QuickStart do The Thomas, você terá seu primeiro relatório de testes em menos de 2 minutos:
 
 - 📦 Instale com `pip install the-thomas-test-suite`
-- 🚀 Rode com `thomas init`
-- Siga as instruções no prompt para executar: `thomas request` (disparo da API), `thomas validade` (validação de resultados) e `thomas report` (para gerar o relatório com todas as evidências). 
-- 📄 Licença Apache 2.0
+- 🚀 Rode com `thomas init`. Esse comando cria a estrutura padrão, que já vem com um exemplo bem completo.
+- Siga as instruções no prompt para executar:
+    - `thomas request` (disparo da API);
+    - `thomas validade` (validação de resultados);
+    - `thomas report` (para gerar o relatório com todas as evidências).
+- Pronto, seu primeiro relatório de testes em menos de 2 minutos!
+  
+- 📄 Licença Apache 2.0 - Use SEM moderação!
 
 ```bash
 pip install the-thomas-test-suite
