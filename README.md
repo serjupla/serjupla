@@ -8,7 +8,7 @@ Tech Lead @ Banco do Brasil · Intra-empreendedor · Brasília, BR
   <a href="https://www.linkedin.com/in/sergioplanelis/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/serjupla/thomas-test-suite">
+  <a href="https://github.com/serjupla/the-thomas-test-suite">
     <img src="https://img.shields.io/badge/Project-The%20Thomas-informational?style=flat" alt="The Thomas"/>
   </a>
 </p>
@@ -17,25 +17,28 @@ Tech Lead @ Banco do Brasil · Intra-empreendedor · Brasília, BR
 
 ### 🔧 Building The Thomas
 
-**[The Thomas](https://github.com/serjupla/thomas-test-suite)** é um framework open-source para automação de testes funcionais de API,s — pensado como alternativa leve a ferramentas como Karate e Tavern.
+**[The Thomas](https://github.com/serjupla/the-thomas-test-suite)** é um framework open-source para automação de testes funcionais de API,s — pensado para testes mais completos e como um alternativa mais leve a ferramentas como Karate e Tavern.
 
-- 📦 Instale com `pip install thomas-test-suite`
-- 🚀 Rode com `thomas request`
+Com o QuickStart do The Thomas, você terá seu primeiro relatório em menos de 2 min:
+
+- 📦 Instale com `pip install the-thomas-test-suite`
+- 🚀 Rode com `thomas init`
+- Siga as instruções no prompt para executar: `thomas request` (disparo da API), `thomas validade` (validação de resultados) e `thomas report` (para gerar o relatório com todas as evidências). 
 - 📄 Licença Apache 2.0
 
 ```bash
-pip install thomas-test-suite
-thomas request
+pip install the-thomas-test-suite
+thomas init
 ```
 
-[![PyPI](https://img.shields.io/pypi/v/thomas-test-suite?color=blue)](https://pypi.org/project/thomas-test-suite/)
-[![License](https://img.shields.io/github/license/serjupla/thomas-test-suite)](https://github.com/serjupla/thomas-test-suite/blob/main/LICENSE)
+[![PyPI](https://img.shields.io/pypi/v/the-thomas-test-suite?color=blue)](https://pypi.org/project/the-thomas-test-suite/)
+[![License](https://img.shields.io/github/license/serjupla/the-thomas-test-suite)](https://github.com/serjupla/the-thomas-test-suite/blob/main/LICENSE)
 
 ---
 
 ### Sobre mim
 
-Tech Lead no Banco do Brasil, atuando na interseção entre liderança de engenharia e construção prática de soluções. Formado pela Unesp, Universidade de Brasília e Fundação Getúlio Vargas. Fora do trabalho, desenvolvo o **The Thomas** como projeto open-source.
+Tech Lead no Banco do Brasil, atuando na interseção entre liderança de engenharia e construção prática de soluções. Formado pela Unesp, UnB e Fundação Getúlio Vargas. Fora do trabalho, desenvolvo o **The Thomas** como projeto open-source.
 
 📍 Brasília, Brasil
 🔗 [LinkedIn](https://www.linkedin.com/in/sergioplanelis/) · [The Thomas no GitHub](https://github.com/serjupla/the-thomas-test-suite) · [The Thomas no PyPI](https://pypi.org/project/the-thomas-test-suite/)
