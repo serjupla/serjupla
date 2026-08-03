@@ -26,7 +26,7 @@ Com o QuickStart do The Thomas, você terá seu primeiro relatório de testes em
 - Siga as instruções no prompt para executar:
     - `thomas request` (disparo da API testada);
     - `thomas validade` (validação de resultados);
-    - `thomas report` (para gerar o relatório com todas as evidências).
+    - `thomas report` (gera o relatório com todas as evidências).
 - Pronto, seu primeiro relatório de testes em menos de 2 minutos!
   
 - 📄 Licença Apache 2.0 - Use SEM moderação!
