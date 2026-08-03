@@ -24,7 +24,7 @@ Com o QuickStart do The Thomas, você terá seu primeiro relatório de testes em
 - 📦 Instale com `pip install the-thomas-test-suite`
 - 🚀 Rode com `thomas init`. Esse comando cria a estrutura padrão, que já vem com um exemplo bem completo.
 - Siga as instruções no prompt para executar:
-    - `thomas request` (disparo da API);
+    - `thomas request` (disparo da API testada);
     - `thomas validade` (validação de resultados);
     - `thomas report` (para gerar o relatório com todas as evidências).
 - Pronto, seu primeiro relatório de testes em menos de 2 minutos!
