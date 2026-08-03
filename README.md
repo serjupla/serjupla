@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Sergio 👋</h1>
 
 <p align="center">
-Tech Lead @ Banco do Brasil · Empreendedor · Brasília, BR
+Tech Lead @ Banco do Brasil  //  Empreendedor · Brasília, BR
 </p>
 
 <p align="center">
